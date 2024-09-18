@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=200000,RESOLUTION=368x208
+https://stream.veo.buzz:6050/sport/ch9/ch9_240.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=640x360
+https://stream.veo.buzz:6050/sport/ch9/ch9_1080.m3u8
